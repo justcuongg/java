@@ -1,3 +1,5 @@
+package baitapthuchanh.src;
+
 import java.util.Scanner;
 
 public class slide55chuong2 {
@@ -12,5 +14,6 @@ public class slide55chuong2 {
              System.out.print(i + "\t");
 
         sc.close();
+        
     }
 }
