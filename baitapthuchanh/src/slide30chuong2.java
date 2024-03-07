@@ -1,5 +1,3 @@
-package baitapthuchanh.src;
-
 import java.util.Scanner;
 
 public class slide30chuong2 {
