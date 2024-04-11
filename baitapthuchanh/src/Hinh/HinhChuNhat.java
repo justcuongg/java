@@ -30,4 +30,5 @@ public class HinhChuNhat extends HinhHoc {
     public void tinhDienTich() {
         dienTich = dai * rong;
     }
+    
 }

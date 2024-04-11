@@ -22,5 +22,6 @@ public class HinhTru extends HinhTron {
         tinhDienTich();
         theTich = dienTich * chieuCao;
     }
+    
 }
 

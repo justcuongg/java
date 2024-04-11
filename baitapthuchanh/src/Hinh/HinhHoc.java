@@ -28,4 +28,5 @@ public class HinhHoc {
     public void inTheTich() {
         System.out.println("The tich: " + theTich);
     }
+    
 }
