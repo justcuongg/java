@@ -3,7 +3,7 @@ import Hinh.HinhTru;
 import Hinh.HinhChuNhat;
 import Hinh.HinhVuong;
 
-public class MainHinh {
+public class MainHinh1 {
     public static void main(String[] args) {
         
         HinhTron hinhtron = new HinhTron();

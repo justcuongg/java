@@ -13,5 +13,6 @@ public class HinhVuong extends HinhChuNhat {
         System.out.print("Nhap canh: ");
         dai = rong = sc.nextFloat();
         
+        
     }
 }
