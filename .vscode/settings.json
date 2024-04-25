@@ -1,7 +1,8 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "baitapthuchanh\\src"
+        "baitapthuchanh\\src",
+        "lab3"
     ],
     "java.project.referencedLibraries": []
 }
